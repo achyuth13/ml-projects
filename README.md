@@ -9,3 +9,6 @@ Census Income <br>
 Chess (King-Rook vs. King) <br>
 Computer Hardware <br>
 Energy efficiency <br>
+Echocardiogram <br>
+EEG Eye State <br>
+Tic-Tac-Toe Endgame <br>
