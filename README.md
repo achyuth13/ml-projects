@@ -1,6 +1,6 @@
 # ML Projects
 
-The following list are ML projects which can be found from the <a href='http://archive.ics.uci.edu/ml/datasets.html'>Machine Learning Repository</a>
+The following list are ML projects which can be found from the <a href='http://archive.ics.uci.edu/ml/datasets.html'>UCI Machine Learning Repository</a>
 
 Iris <br>
 Wine <br>
